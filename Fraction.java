@@ -69,9 +69,9 @@ public class Fraction
         return resultat;
     }
         
-    public boolean test_egalite_fraction(Fraction f1,Fraction f2)
+    public boolean test_egalite_fraction(Fraction f2)
     {
-       double val_f1=f1.FractionEnDouble();
+       double val_f1=this.FractionEnDouble();
        double val_f2=f2.FractionEnDouble();
        
        if (val_f1==val_f2)
