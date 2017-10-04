@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=numerateur\ denominateur
+comment0.target=Fraction(int,\ int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Fraction\n
+comment1.params=numerateur
+comment1.target=Fraction(int)
+comment2.params=
+comment2.target=Fraction()
+comment3.params=
+comment3.target=int\ ConsulteNumerateur()
+comment4.params=
+comment4.target=int\ ConsulteDenominateur()
+comment5.params=
+comment5.target=double\ FractionEnDouble()
+comment6.params=f2
+comment6.target=Fraction\ addition(Fraction)
+comment7.params=f1\ f2
+comment7.target=boolean\ test_egalite_fraction(Fraction,\ Fraction)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=f2
+comment9.target=int\ ComparaisonFraction(Fraction)
+numComments=10
